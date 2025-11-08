@@ -8,10 +8,15 @@
 
 #include "GUI.h"
 
+//#define BITMAP_WIDTH 400
+//#define BITMAP_HEIGHT 300
+//#define WINDOW_WIDTH 450
+//#define WINDOW_HEIGHT 380
 #define BITMAP_WIDTH 400
 #define BITMAP_HEIGHT 300
 #define WINDOW_WIDTH 450
 #define WINDOW_HEIGHT 380
+
 
 // Global variables
 HINSTANCE g_hInstance;
